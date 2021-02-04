@@ -10,13 +10,13 @@
 	<div style="display:flex">
       <div style="width:200;height:200;background:yellow;padding:10;margin:10">
           <center>Um teste em um quadrado
-          <img src="c1.jpg">
+          <img src="c1.jpg" width="150">
           </center>
       </div>
 
 		<div style="width:200;height:200;background:blue;color:white;padding:10;margin:10">
           <center>Um teste em um quadrado
-          <img src="c2.jpg">
+          <img src="c2.jpg" width="150">
           </center>
       </div>
 	</div>
