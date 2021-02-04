@@ -9,11 +9,15 @@
 
 	<div style="display:flex">
       <div style="width:200;height:200;background:yellow;padding:10;margin:10">
-          <center>Um teste em um quadrado</center>
+          <center>Um teste em um quadrado
+          <img src="c1.jpg">
+          </center>
       </div>
 
 		<div style="width:200;height:200;background:blue;color:white;padding:10;margin:10">
-          <center>Um teste em um quadrado</center>
+          <center>Um teste em um quadrado
+          <img src="c2.jpg">
+          </center>
       </div>
 	</div>
   </body>
