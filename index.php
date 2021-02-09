@@ -85,7 +85,7 @@
 
 <body role="document">
     <div class="topbar">
-        <center><A rel=nofollow href="http://www.paimesmo.com.br"><img alt="logo" width=150 src="http://www.paimesmo.com.br/wp-content/uploads/2016/12/Logo-Matriz-Redondo.png"></a></center>
+        <center><A rel=nofollow href="http://www.paimesmo.com.br"><img alt="logo" width=150 src="imagens/Logo-Matriz-Redondo.png"></a></center>
     </div>
 
     <div class="content">
